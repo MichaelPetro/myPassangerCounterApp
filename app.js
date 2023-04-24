@@ -25,4 +25,5 @@ function save(){
     console.log(counter)
     countEl.textContent=0
     counter.textContent=0
+    counter=0
 }
