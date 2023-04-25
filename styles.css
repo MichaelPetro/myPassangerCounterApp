@@ -50,4 +50,10 @@ button {
 p{
     color: black;
 }
-
+.footer{
+    background: grey;
+    width: 20%;
+    border: 2px solid blueviolet;
+    border-radius: 12px;
+    position: fixed; right: 8px; bottom: 12px;
+}
